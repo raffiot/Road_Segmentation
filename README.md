@@ -1,4 +1,4 @@
-Deep neural network implementation for road recognition.
+Deep neural network implementation for road recognition.  
 For more details about implementation and results please look at road-segmentation-convolutional.pdf .
 
 Libraries:  
